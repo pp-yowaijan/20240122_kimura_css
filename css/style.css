@@ -1,0 +1,38 @@
+.coachtech {
+    display: inline-block;
+    margin-right: 700px;
+    margin-left: 30px;
+    color: #000080;
+}
+
+.top-header__nav-list {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.firstview {
+    background-color: #000080;
+    width: 1000px;
+    height: 200px;
+    margin-top: 330px;
+}
+
+.firstview__img img {
+    width: 100%;
+    margin-top: -300px;
+}
+
+.firstview__img {
+    width: 40vw;
+    margin-left: 70%;
+}
+
+.firstview__content {
+    font-size: 70px;
+}
+
+.firstview__content-ttl {
+    margin-top: -280px;
+}
